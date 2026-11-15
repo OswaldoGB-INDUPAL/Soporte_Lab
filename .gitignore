@@ -1,0 +1,6 @@
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+# *.xcodeproj/  # Descomentar si se regenera siempre con XcodeGen.
